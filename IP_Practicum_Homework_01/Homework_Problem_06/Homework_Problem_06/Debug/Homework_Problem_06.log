@@ -1,0 +1,3 @@
+﻿  Homework_Problem_06.cpp
+c:\users\viktor\desktop\homework_problem_06\homework_problem_06\homework_problem_06.cpp(24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Homework_Problem_06.vcxproj -> C:\Users\Viktor\Desktop\Homework_Problem_06\Debug\Homework_Problem_06.exe
